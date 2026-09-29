@@ -38,7 +38,7 @@ export const metadata = {
       "Leading logistics company in India offering freight forwarding, customs clearance, and supply chain solutions.",
     images: ["https://tjsealogistics.com/images/hero.jpg"],
   },
-  icons: { icon: "/favicon.svg", shortcut: "/favicon.ico", apple: "/favicon.svg" },
+  icons: { icon: "/favicon.svg", apple: "/favicon.svg" },
 };
 
 const jsonLd = {
